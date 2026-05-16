@@ -314,11 +314,7 @@
         width: 100%;
     }
     .DigitalMarketing .marketingSection aside .circle{
-        width: 420px;
-        height: 400px;
-        position: absolute;
-        top: 108px;
-        left: 350px;
+        display: none;        
     }
     .results .items .itemResult h3{
         margin-bottom: 5px;
